@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheSmurfs</string>
+    <string name="brainySmurf">Brainy Smurf considers himself the most intelligent Smurf in the village and an expert on everything, although his actual knowledge is questionable at best; often, his attempts to help in a given situation lead to even more problems, and the Smurfs often blame him on everything.</string>
+    <string name="search">Search</string>
+    <string name="title">The Smurfs</string>
+    <string name="textView">textView</string>
+</resources>
